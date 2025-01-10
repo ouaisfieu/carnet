@@ -1,0 +1,56 @@
+/* Styles de base */
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #101010;
+  color: #00FF00;
+  margin: 0;
+  padding: 0;
+}
+
+/* En-tête */
+header {
+  background-color: #1a1a1a;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color: #DDA0DD;
+  font-size: 3em;
+  text-shadow: 0 0 10px #DDA0DD, 0 0 20px #FFFFFF;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #00FF00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Sections */
+section {
+  padding: 20px;
+  border-bottom: 1px solid #333;
+}
+
+/* Liens interactifs */
+a:hover {
+  color: #DDA0DD;
+  text-shadow: 0 0 5px #DDA0DD;
+}
+
+/* Pied de page */
+footer {
+  text-align: center;
+  background-color: #1a1a1a;
+  padding: 10px;
+}
