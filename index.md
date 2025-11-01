@@ -32,3 +32,4 @@ Espace visant à :
 
 ---
 
+> Pas d’utilisation commerciale, self-service open bar pour les autres
