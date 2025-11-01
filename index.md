@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DOCTech
+title: Carnet
 permalink: /
 description: "Le petit imprécis de pseudoscience sociale"
 
@@ -8,23 +8,9 @@ description: "Le petit imprécis de pseudoscience sociale"
 
 
 
-# DOCTech
+# Carnet de notes
 
-**Document d'Ordre Citoyen, et Technique**
-
-## Petit imprécis de pseudoscience (sociale)
-
-
-Bienvenue sur **DOCTech**, espace de diffusion de notes et de résultats de recherches assistées par intelligence artificielle.
-
-Vous y trouverez des trucs en vrac, pas forcément mis à jour. Et relativement douteux comme d'hab.
-
----
-
-![Logo DOCTech](/assets/images/logo.jpg){: style="display:block; margin: 0 auto 1.5rem; max-width:200px; height:auto; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25); border-radius: 10px;" }
-
-
----
+Bienvenue sur cet espace de diffusion de notes et de résultats de recherches assistées par intelligence artificielle.
 
 ## **🛠️ Récapitulatif des Options**
 
@@ -39,22 +25,10 @@ Vous y trouverez des trucs en vrac, pas forcément mis à jour. Et relativement 
 
 ## À propos
 
-DOCTech est un projet visant à :
+Espace visant à :
 1. Centraliser des recherches et pistes de réflexions
 2. Partager librement des ressources
 
 
-Toutes les notes sont rédigées en **Markdown**, librement accessibles et basées sur des outils **"open source"**.
-Pas d'utilisation commerciale, self-service open bar pour les autres
-
 ---
 
-## Contribuer & Contact
-
-Demain.
-
----
-
-<p align="center">
-  © 2025 • GPTPardi – Dont'be evil, just do it
-</p>
