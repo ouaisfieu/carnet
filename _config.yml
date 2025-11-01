@@ -49,9 +49,7 @@ just_the_docs:
     belgique:
       name: 🟦 BELGIQUE       # ← titre dans le menu de navigation
       nav_fold: true         # ← false = tout est affiché dans le menu, true = replié
-    et-vous:
-      name: 🟥 ET QUOI ?
-      nav_fold: true
+
 
 
 back_to_top: true
